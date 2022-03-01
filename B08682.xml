@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all Arch-Bishops, and Bishops, who are not a shame (to) or ashamed (of) the name of Christ before men, grace, wisdom and truth, from God our Father, and from our Lord Jesus Christ, amen.</title>
+            <author>Chamberlen, Peter, 1601-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08682</idno>
+            <idno type="STC">Wing C1906A</idno>
+            <idno type="STC">ESTC R232858</idno>
+            <idno type="EEBO-CITATION">64551054</idno>
+            <idno type="OCLC">ocm 64551054</idno>
+            <idno type="VID">184437</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08682)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184437)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all Arch-Bishops, and Bishops, who are not a shame (to) or ashamed (of) the name of Christ before men, grace, wisdom and truth, from God our Father, and from our Lord Jesus Christ, amen.</title>
+                  <author>Chamberlen, Peter, 1601-1683.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed by: "Peter Chamberlen."</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops --  Early works to 1800.</term>
+               <term>Church of England --  Clergy --  Training of --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184437:1"/>
+            <head>To all ARCH-BISHOPS, and BISHOPS, who are not a <hi>Shame</hi> (to) or aſhamed (of) the NAME of CHRIST before MEN, <hi>Grace, Wiſdom</hi> and <hi>Truth,</hi> from <hi>God</hi> our <hi>Father,</hi> and from our Lord <hi>Jeſus Chriſt,</hi> AMEN.</head>
+            <opener>
+               <dateline>My Lords,</dateline>
+            </opener>
+            <p>I Thought to have Written in LATINE, that the <hi>Subject</hi> (being CATHO<g ref="char:EOLhyphen"/>LICK,) it might not be confined within our <hi>Cinque Ports;</hi> and becauſe the LITTLE-HORN (having ſprung up in <hi>Latine</hi>) it might be ſo rooted out as it ſprang up. But, as I would not have my <hi>Integrity</hi> ſavour of the <hi>Vanity</hi> of Languages (1 <hi>Cor.</hi> 14.1.—10.) ſo I would not run the <hi>Gauntlet</hi> of my Country-mens <hi>Tongues</hi> (in the Apoſtles Language) to cenſure me of <hi>Bar<g ref="char:EOLhyphen"/>bariſm</hi> (1 <hi>Cor.</hi> 14.11.) nor yet to hazard the <hi>Cenſure</hi> of our <hi>Saviour,</hi> as if I ſhun<g ref="char:EOLhyphen"/>ned the LIGHT of common People (<hi>John</hi> 3.19, 20.) I therefore dip my <hi>Pen</hi> in the IDIOM of our Mother Tongue; And (in the firſt place) I moſt humbly Sa<g ref="char:EOLhyphen"/>lute thoſe of mine own Country; that (as it becomes us firſt) to caſt the <hi>Beam out of our own eye</hi> (Mat. 7.3, 4, 5. Luke 6.41, 42.) to avoid HYPOCRISIE, ac<g ref="char:EOLhyphen"/>cording to the Counſel of our <hi>Saviour;</hi> So this <hi>Honour</hi> of —<hi>Phyſician heal thy ſelf</hi> (Luk. 4.23, 24.) may firſt be aſcribed to your Wiſdom. To which Purpoſe, not knowing how to Addreſs my <hi>Papers</hi> to your ſeveral PALACES, I have been at the Charge of <hi>Printing,</hi> and <hi>Diſtributing</hi> them to <hi>Booksellers,</hi> that they may be conveyed into your hands; to waſh them in <hi>Innocency</hi> from the little <hi>Horn-Change</hi> of <hi>Times</hi> and <hi>Laws.</hi>
+            </p>
+            <p>Many HEADS have paſſed their <hi>Sentence</hi> on the VISIONS of DANIEL, of whom (the learned <hi>Doctor Moor</hi>) hath given an impartial Account, and laid the CHANGE of <hi>Times</hi> and <hi>Laws,</hi> at the Doors of ROME. But the particulars of —WHAT <hi>Times</hi> and <hi>Laws</hi> are changed? And—WHAT <hi>Times</hi> and <hi>Laws</hi> are come in their place? And—WHEN? And—by WHOM? is left as a <hi>Province</hi> for your <hi>Glory</hi> to bring to LIGHT; which may (again) ſet ROME on <hi>Fire,</hi> either of <hi>Zeal,</hi> to amend what is amiſs; Or burn to <hi>Aſhes</hi> of perpetual <hi>Si<g ref="char:EOLhyphen"/>lence</hi> and <hi>Oblivion,</hi> all their <hi>Lyes</hi> and <hi>Changes.</hi>
+            </p>
+            <p>I ſhall patiently wait one <hi>Moneth,</hi> to obſerve the <hi>Operation</hi> of this my <hi>Service;</hi> which (if it prove ineffectual) I ſhall not forget that I am a <hi>Member</hi> of the <hi>Church</hi> of <hi>Chriſt,</hi> (1 <hi>Cor.</hi> 12.26.) and of the Body <hi>Politick.</hi> Much leſs ſhall I deny my ſelf to be Firſt, and Eldeſt PHYSICIAN to his Majeſties Perſon in Ordinary, and my DOCTORSHIP above 62 years ſtanding: Having been <hi>Phy<g ref="char:EOLhyphen"/>ſician</hi> in three Kings and Queens Courts of ENGLAND, beſides many others. I muſt not (therefore) <hi>Palliate</hi> the CURE, but ſearch it to the <hi>Bottom;</hi> and ac<g ref="char:EOLhyphen"/>cordingly having diſcovered the CAUSE, preſcribe the taking it away, that I may not be unworthy of Subſcribing my ſelf,</p>
+            <closer>
+               <dateline>London, <date>
+                     <hi>May</hi> 29. 1682</date>
+               </dateline>
+               <signed>
+                  <hi>My Lords, Your</hi> Graces <hi>and your</hi> Lordſhips <hi>moſt</hi> Chriſtian-Servant<hi> PETER CHAMBERLEN.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
